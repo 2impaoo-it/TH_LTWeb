@@ -1,0 +1,61 @@
+﻿@model Lab02.Models.Product
+
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="page-title">Add Product</h1>
+
+<div class="form-container">
+    <form asp-action="Add" asp-controler="Product" asp-area="Admin" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="form-group">
+            <label asp-for="Name" class="control-label">Tên sản phẩm</label>
+            <input asp-for="Name" class="form-control input-field" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Price" class="control-label">Giá</label>
+            <input asp-for="Price" class="form-control input-field" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Description" class="control-label">Mô Tả</label>
+            <textarea asp-for="Description" class="form-control input-field"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ImageUrl" class="control-label"></label>
+            <input type="file" asp-for="ImageUrl" class="form-control input-field" />
+            <span asp-validation-for="ImageUrl" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mt-3">
+            <label asp-for="CategoryId" class="control-label">Danh mục sản phẩm</label>
+            <select id="CategoryId" name="CategoryId" class="form-control input-field"
+                    asp-items="ViewBag.Categories" title="Chọn danh mục sản phẩm">
+                <option value="">-- Chọn danh mục --</option>
+            </select>
+
+        </div>
+
+ 
+
+
+        <div class="button-container">
+            <input type="submit" value="Create" class="btn btn-primary submit-btn" />
+            <a href="@Url.Action("Index", "Product", new { area = "Admin" })" class="btn btn-primary">Back to List</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

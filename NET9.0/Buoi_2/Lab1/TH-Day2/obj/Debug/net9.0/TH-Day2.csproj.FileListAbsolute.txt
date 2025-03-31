@@ -1,0 +1,294 @@
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\appsettings.Development.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\appsettings.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.staticwebassets.runtime.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.staticwebassets.endpoints.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.exe
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.deps.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.runtimeconfig.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.dll
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.pdb
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.AssemblyInfoInputs.cache
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.AssemblyInfo.cs
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.csproj.CoreCompileInputs.cache
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.MvcApplicationPartsAssemblyInfo.cache
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.RazorAssemblyInfo.cache
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.RazorAssemblyInfo.cs
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\scopedcss\bundle\TH-Day2.styles.css
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\scopedcss\projectbundle\TH-Day2.bundle.scp.css
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\yyfmwv1vfd-61n19gt1b8.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\5d26l12baz-bqjiyaj88i.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\fkn56hx8xy-c2jlpeoesf.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\den9yhxu0w-erw9l3u2r3.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\rem1jahiu8-aexeepp0ev.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\jssd17ke96-d7shbmvgxk.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\0xcqg1h3ab-ausgxo2sd3.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\czmffbt6xx-k8d9w2qqmf.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\142dqg4gnr-cosvhxvwiu.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\je3indwsu8-ub07r2b239.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\vy2g6a6jgh-fvhpjtyr6v.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\hgrlwyve0s-b7pk76d08c.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\x5rlwboemd-fsbi9cje9m.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\gkynuud3oo-rzd6atqjts.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\7fun86q2dh-ee0r1s7dh0.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\f4it7opdu8-dxx9fxp4il.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ofr85qz1hb-jd9uben2k1.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\q8fi8ga0mv-khv3u5hwcm.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\u0javmo3jv-r4e9w2rdcm.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ycty2wuxny-lcd1t2u6c8.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\8pnrn4q15s-c2oey78nd0.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\equxaaos93-tdbxkamptv.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\9uxooqqp0s-j5mq2jizvt.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\vm987qd64h-06098lyss8.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ld3u536ehw-nvvlpmu67g.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\b1kat6nch5-s35ty4nyc5.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\s06mq53uak-pj5nd1wqec.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\h51r4c39z5-46ein0sx1k.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ug7ojoy4a3-v0zj4ognzu.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\nmqvphis5g-37tfw0ft22.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\34j7ed3gza-hrwsygsryq.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\gnuzt2ah8s-pk9g2wxc8p.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\7d8anp1rdj-ft3s53vfgj.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\oad27ozf8x-6cfz1n2cew.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\83r3jk4lz4-6pdc2jztkx.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\7f1l0k3j4h-493y06b0oq.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ji54hgfmlc-iovd86k7lj.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ad0zf1ewn8-vr1egmr9el.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\sr89xoy6hr-kbrnm935zg.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\zb4qclhzkd-jj8uyg4cgr.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\iag87objk9-y7v9cxd14o.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\i4ixkawzr4-notf2xhcfb.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\udzwmzu4iv-h1s4sie4z3.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\jedues6tmi-63fj8s7r0e.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ol9pmv3ic3-0j3bgjxly4.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\4k5vfiart0-47otxtyo56.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\85snti2l3l-4v8eqarkd7.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\wzrwd0qgv0-356vix0kms.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\f4toewmnlr-83jwlth58m.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\3vz9ojjqtf-mrlpezrjn3.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\1u2v19d6nh-lzl9nlhx6b.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\piobzg0p9f-ag7o75518u.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\bbkwifb7hz-x0q3zqp4vz.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\rbcrmmnl9h-0i3buxo5is.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\6x7auuzqc4-o1o13a6vjx.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\4e0x88ah1y-ttgo8qnofa.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\v4wimxhcma-2z0ns9nrw6.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\hikxdp1b5j-muycvpuwrr.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\wfvgrwgkgq-87fc7y1x7t.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\cp4vwet4or-mlv21k5csn.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\hifc9f8du4-qp3z11dqpa.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\6p9ingtkmr-qp3z11dqpa.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.build.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.development.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.TH-Day2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.TH-Day2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.build.TH-Day2.props
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TH-Day2.props
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TH-Day2.props
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.pack.json
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.dll
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\refint\TH-Day2.dll
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.pdb
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.genruntimeconfig.cache
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\ref\TH-Day2.dll
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\nahdbt2g9l-z7s3owm2md.gz
+D:\HUTECH\LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ffjfpukz73-fggo8xrilk.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\appsettings.Development.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\appsettings.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.staticwebassets.endpoints.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.staticwebassets.runtime.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.exe
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.deps.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.runtimeconfig.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.dll
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.pdb
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.AssemblyInfoInputs.cache
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.AssemblyInfo.cs
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.csproj.CoreCompileInputs.cache
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.MvcApplicationPartsAssemblyInfo.cache
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.RazorAssemblyInfo.cache
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.RazorAssemblyInfo.cs
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\scopedcss\bundle\TH-Day2.styles.css
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\scopedcss\projectbundle\TH-Day2.bundle.scp.css
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ffjfpukz73-fggo8xrilk.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\yyfmwv1vfd-61n19gt1b8.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\nahdbt2g9l-z7s3owm2md.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\5d26l12baz-bqjiyaj88i.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\fkn56hx8xy-c2jlpeoesf.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\den9yhxu0w-erw9l3u2r3.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\rem1jahiu8-aexeepp0ev.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\jssd17ke96-d7shbmvgxk.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\0xcqg1h3ab-ausgxo2sd3.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\czmffbt6xx-k8d9w2qqmf.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\142dqg4gnr-cosvhxvwiu.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\je3indwsu8-ub07r2b239.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\vy2g6a6jgh-fvhpjtyr6v.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\hgrlwyve0s-b7pk76d08c.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\x5rlwboemd-fsbi9cje9m.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\gkynuud3oo-rzd6atqjts.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\7fun86q2dh-ee0r1s7dh0.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\f4it7opdu8-dxx9fxp4il.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ofr85qz1hb-jd9uben2k1.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\q8fi8ga0mv-khv3u5hwcm.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\u0javmo3jv-r4e9w2rdcm.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ycty2wuxny-lcd1t2u6c8.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\8pnrn4q15s-c2oey78nd0.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\equxaaos93-tdbxkamptv.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\9uxooqqp0s-j5mq2jizvt.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\vm987qd64h-06098lyss8.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ld3u536ehw-nvvlpmu67g.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\b1kat6nch5-s35ty4nyc5.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\s06mq53uak-pj5nd1wqec.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\h51r4c39z5-46ein0sx1k.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ug7ojoy4a3-v0zj4ognzu.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\nmqvphis5g-37tfw0ft22.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\34j7ed3gza-hrwsygsryq.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\gnuzt2ah8s-pk9g2wxc8p.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\7d8anp1rdj-ft3s53vfgj.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\oad27ozf8x-6cfz1n2cew.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\83r3jk4lz4-6pdc2jztkx.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\7f1l0k3j4h-493y06b0oq.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ji54hgfmlc-iovd86k7lj.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ad0zf1ewn8-vr1egmr9el.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\sr89xoy6hr-kbrnm935zg.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\zb4qclhzkd-jj8uyg4cgr.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\iag87objk9-y7v9cxd14o.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\i4ixkawzr4-notf2xhcfb.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\udzwmzu4iv-h1s4sie4z3.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\jedues6tmi-63fj8s7r0e.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ol9pmv3ic3-0j3bgjxly4.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\4k5vfiart0-47otxtyo56.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\85snti2l3l-4v8eqarkd7.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\wzrwd0qgv0-356vix0kms.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\f4toewmnlr-83jwlth58m.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\3vz9ojjqtf-mrlpezrjn3.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\1u2v19d6nh-lzl9nlhx6b.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\piobzg0p9f-ag7o75518u.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\bbkwifb7hz-x0q3zqp4vz.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\rbcrmmnl9h-0i3buxo5is.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\6x7auuzqc4-o1o13a6vjx.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\4e0x88ah1y-ttgo8qnofa.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\v4wimxhcma-2z0ns9nrw6.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\hikxdp1b5j-muycvpuwrr.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\wfvgrwgkgq-87fc7y1x7t.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\cp4vwet4or-mlv21k5csn.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\hifc9f8du4-qp3z11dqpa.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\compressed\6p9ingtkmr-qp3z11dqpa.gz
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.build.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.development.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.TH-Day2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.TH-Day2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.build.TH-Day2.props
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TH-Day2.props
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TH-Day2.props
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.pack.json
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.dll
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\refint\TH-Day2.dll
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.pdb
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.genruntimeconfig.cache
+D:\HUTECH\LapTrinhWeb\ThucHanh_LapTrinhWeb\Lab1\TH-Day2\obj\Debug\net9.0\ref\TH-Day2.dll
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\bin\Debug\net9.0\appsettings.Development.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\bin\Debug\net9.0\appsettings.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.staticwebassets.endpoints.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.staticwebassets.runtime.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.exe
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.deps.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.runtimeconfig.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.dll
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\bin\Debug\net9.0\TH-Day2.pdb
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.AssemblyInfoInputs.cache
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.AssemblyInfo.cs
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.csproj.CoreCompileInputs.cache
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.MvcApplicationPartsAssemblyInfo.cache
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.RazorAssemblyInfo.cache
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.RazorAssemblyInfo.cs
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\scopedcss\bundle\TH-Day2.styles.css
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\scopedcss\projectbundle\TH-Day2.bundle.scp.css
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ffjfpukz73-fggo8xrilk.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\yyfmwv1vfd-61n19gt1b8.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\nahdbt2g9l-z7s3owm2md.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\5d26l12baz-bqjiyaj88i.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\fkn56hx8xy-c2jlpeoesf.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\den9yhxu0w-erw9l3u2r3.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\rem1jahiu8-aexeepp0ev.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\jssd17ke96-d7shbmvgxk.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\0xcqg1h3ab-ausgxo2sd3.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\czmffbt6xx-k8d9w2qqmf.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\142dqg4gnr-cosvhxvwiu.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\je3indwsu8-ub07r2b239.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\vy2g6a6jgh-fvhpjtyr6v.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\hgrlwyve0s-b7pk76d08c.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\x5rlwboemd-fsbi9cje9m.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\gkynuud3oo-rzd6atqjts.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\7fun86q2dh-ee0r1s7dh0.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\f4it7opdu8-dxx9fxp4il.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ofr85qz1hb-jd9uben2k1.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\q8fi8ga0mv-khv3u5hwcm.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\u0javmo3jv-r4e9w2rdcm.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ycty2wuxny-lcd1t2u6c8.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\8pnrn4q15s-c2oey78nd0.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\equxaaos93-tdbxkamptv.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\9uxooqqp0s-j5mq2jizvt.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\vm987qd64h-06098lyss8.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ld3u536ehw-nvvlpmu67g.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\b1kat6nch5-s35ty4nyc5.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\s06mq53uak-pj5nd1wqec.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\h51r4c39z5-46ein0sx1k.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ug7ojoy4a3-v0zj4ognzu.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\nmqvphis5g-37tfw0ft22.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\34j7ed3gza-hrwsygsryq.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\gnuzt2ah8s-pk9g2wxc8p.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\7d8anp1rdj-ft3s53vfgj.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\oad27ozf8x-6cfz1n2cew.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\83r3jk4lz4-6pdc2jztkx.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\7f1l0k3j4h-493y06b0oq.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ji54hgfmlc-iovd86k7lj.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ad0zf1ewn8-vr1egmr9el.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\sr89xoy6hr-kbrnm935zg.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\zb4qclhzkd-jj8uyg4cgr.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\iag87objk9-y7v9cxd14o.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\i4ixkawzr4-notf2xhcfb.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\udzwmzu4iv-h1s4sie4z3.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\jedues6tmi-63fj8s7r0e.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\ol9pmv3ic3-0j3bgjxly4.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\4k5vfiart0-47otxtyo56.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\85snti2l3l-4v8eqarkd7.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\wzrwd0qgv0-356vix0kms.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\f4toewmnlr-83jwlth58m.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\3vz9ojjqtf-mrlpezrjn3.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\1u2v19d6nh-lzl9nlhx6b.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\piobzg0p9f-ag7o75518u.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\bbkwifb7hz-x0q3zqp4vz.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\rbcrmmnl9h-0i3buxo5is.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\6x7auuzqc4-o1o13a6vjx.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\4e0x88ah1y-ttgo8qnofa.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\v4wimxhcma-2z0ns9nrw6.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\hikxdp1b5j-muycvpuwrr.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\wfvgrwgkgq-87fc7y1x7t.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\cp4vwet4or-mlv21k5csn.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\hifc9f8du4-qp3z11dqpa.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\compressed\6p9ingtkmr-qp3z11dqpa.gz
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.build.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.development.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.TH-Day2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.TH-Day2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.build.TH-Day2.props
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.TH-Day2.props
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.TH-Day2.props
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.dll
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\refint\TH-Day2.dll
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.pdb
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\TH-Day2.genruntimeconfig.cache
+D:\Dowloads\Programs\Bai A Nam\Hung+Bao\Lab1\TH-Day2\obj\Debug\net9.0\ref\TH-Day2.dll

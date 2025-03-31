@@ -1,0 +1,14 @@
+﻿@{
+	ViewData["Title"] = "Đặt hàng thành công";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="alert alert-success text-center mt-4">
+	<h3>✅ Cảm ơn bạn đã đặt hàng!</h3>
+	<p>Chúng tôi sẽ xử lý đơn hàng và liên hệ bạn sớm. Xin mời bạn thanh toán qua QRCode bên dưới</p>
+	<img src="@($"https://img.vietqr.io/image/VCB-1043392175-print.png?amount={ViewBag.TotalAmount.ToString("F0")}&accountName=")" alt="QR Code Thanh Toán" />
+
+
+
+	<a asp-controller="Product" asp-action="Index"
+	   class="btn btn-primary mt-3">Tiếp tục mua hàng</a>
+</div>

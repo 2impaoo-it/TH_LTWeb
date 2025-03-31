@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Lab02.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lab02.irxtiymf21.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\css\\productStyle.css",
+      "PackagePath": "staticwebassets\\css\\productStyle.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\images\\911.jpg",
+      "PackagePath": "staticwebassets\\images\\911.jpg"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\images\\bgv1.jpg",
+      "PackagePath": "staticwebassets\\images\\bgv1.jpg"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\images\\civic.jpg",
+      "PackagePath": "staticwebassets\\images\\civic.jpg"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\images\\ip16.jpg",
+      "PackagePath": "staticwebassets\\images\\ip16.jpg"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\images\\ltC.jpg",
+      "PackagePath": "staticwebassets\\images\\ltC.jpg"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\images\\nitro5.jpg",
+      "PackagePath": "staticwebassets\\images\\nitro5.jpg"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\images\\pocket3.jpg",
+      "PackagePath": "staticwebassets\\images\\pocket3.jpg"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\images\\python.jpg",
+      "PackagePath": "staticwebassets\\images\\python.jpg"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\images\\sua-tuoi.jpg",
+      "PackagePath": "staticwebassets\\images\\sua-tuoi.jpg"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\ThucHanh_LapTrinhWeb\\TH-Ngay3\\Lab02\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Lab02.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Lab02.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Lab02.props",
+      "PackagePath": "build\\Lab02.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab02.props",
+      "PackagePath": "buildMultiTargeting\\Lab02.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Lab02.props",
+      "PackagePath": "buildTransitive\\Lab02.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

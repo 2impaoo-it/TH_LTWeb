@@ -1,0 +1,21 @@
+﻿@model IEnumerable<TH_Day2.Models.Product>
+
+<h2>Products</h2>
+
+<div class="product-container">
+    @foreach (var product in Model)
+    {
+        <div class="product-card">
+            <img src="@product.ImageUrl" alt="@product.Name" class="product-image" onclick="openModal('@product.ImageUrl')" />
+            <h3 class="product-title">@product.Name</h3>
+            <p class="product-price">@product.Price.ToString("N0") $</p>
+            <div>
+                <a asp-action="Display" asp-route-id="@product.Id" class="btn btn-success">View</a>
+                <a asp-action="Update" asp-route-id="@product.Id" class="btn">Edit</a>
+                <a asp-action="Delete" asp-route-id="@product.Id" class="btn btn-danger">Delete</a>
+            </div>
+        </div>
+    }
+</div>
+
+

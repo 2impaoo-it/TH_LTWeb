@@ -1,0 +1,115 @@
+﻿/* Tổng thể: Tông màu sáng, hiện đại, bo góc card sản phẩm */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Header */
+.header {
+    background-color: #ffffff;
+    color: black;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+    .header a {
+        color: black;
+        text-decoration: none;
+        font-weight: bold;
+        padding: 10px 15px;
+        transition: 0.3s;
+    }
+
+        .header a:hover {
+            color: #007bff;
+        }
+
+/* Layout sản phẩm */
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+    flex-grow: 1;
+}
+
+.product-card {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 250px;
+    transition: transform 0.3s;
+}
+
+    .product-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .product-card img {
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .product-card h3 {
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .product-card .price {
+        color: #007bff;
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+/* Nút bấm */
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.button {
+    padding: 8px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+    .button.view {
+        background-color: #28a745;
+        color: white;
+    }
+
+    .button.edit , .button.addCart {
+        background-color: #ffc107;
+        color: black;
+    }
+
+    .button.delete , .button.buyNow {
+        background-color: #dc3545;
+        color: white;
+    }
+
+/* Footer */
+.border-top footer text-muted {
+    
+}

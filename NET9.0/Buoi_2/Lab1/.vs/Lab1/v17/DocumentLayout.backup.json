@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|d:\\dowloads\\programs\\bai a nam\\hung\u002Bbao\\lab1\\th-day2\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|solutionrelative:th-day2\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|d:\\dowloads\\programs\\bai a nam\\hung\u002Bbao\\lab1\\th-day2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|solutionrelative:th-day2\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|d:\\dowloads\\programs\\bai a nam\\hung\u002Bbao\\lab1\\th-day2\\repositories\\mockproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|solutionrelative:th-day2\\repositories\\mockproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|d:\\dowloads\\programs\\bai a nam\\hung\u002Bbao\\lab1\\th-day2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|solutionrelative:th-day2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|d:\\dowloads\\programs\\bai a nam\\hung\u002Bbao\\lab1\\th-day2\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|solutionrelative:th-day2\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|d:\\dowloads\\programs\\bai a nam\\hung\u002Bbao\\lab1\\th-day2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|solutionrelative:th-day2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|d:\\dowloads\\programs\\bai a nam\\hung\u002Bbao\\lab1\\th-day2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|solutionrelative:th-day2\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|d:\\dowloads\\programs\\bai a nam\\hung\u002Bbao\\lab1\\th-day2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|solutionrelative:th-day2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|d:\\dowloads\\programs\\bai a nam\\hung\u002Bbao\\lab1\\th-day2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{059A0C98-3BDB-430F-9381-8D1ACF681CE8}|TH-Day2\\TH-Day2.csproj|solutionrelative:th-day2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TH-Day2\\Models\\Product.cs",
+              "ToolTip": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Models\\Product.cs",
+              "RelativeToolTip": "TH-Day2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:29:22.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TH-Day2\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TH-Day2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:29:23.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MockProductRepository.cs",
+              "DocumentMoniker": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Repositories\\MockProductRepository.cs",
+              "RelativeDocumentMoniker": "TH-Day2\\Repositories\\MockProductRepository.cs",
+              "ToolTip": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Repositories\\MockProductRepository.cs",
+              "RelativeToolTip": "TH-Day2\\Repositories\\MockProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABRAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T03:27:17.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TH-Day2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TH-Day2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T03:22:43.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "TH-Day2\\Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "TH-Day2\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T03:22:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TH-Day2\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TH-Day2\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-03T03:18:00.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TH-Day2\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TH-Day2\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-03T03:17:55.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TH-Day2\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TH-Day2\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T03:17:46.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "TH-Day2\\Views\\Product\\Display.cshtml",
+              "ToolTip": "D:\\Dowloads\\Programs\\Bai A Nam\\Hung\u002BBao\\Lab1\\TH-Day2\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "TH-Day2\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T03:44:46.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

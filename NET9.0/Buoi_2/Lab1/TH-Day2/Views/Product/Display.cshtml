@@ -1,0 +1,15 @@
+﻿@model TH_Day2.Models.Product
+
+<h2>Chi tiết sản phẩm</h2>
+
+<div class="product-detail-container">
+    <div class="product-image">
+        <img src="@Model.ImageUrl" alt="@Model.Name">
+    </div>
+    <div class="product-info">
+        <h3>@Model.Name</h3>
+        <p><strong>Giá:</strong> @Model.Price $</p>
+        <p><strong>Mô tả:</strong> @Model.Description</p>
+        <a asp-action="Index" class="btn-back">Quay lại</a>
+    </div>
+</div>

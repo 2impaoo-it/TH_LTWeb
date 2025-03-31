@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Lab02.Models.Product>
+<link rel="stylesheet" href="~/css/productStyle.css" />
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="page-title">Products</h1>
+
+<p>
+    <a href="@Url.Action("Add", "Product", new { area = "Admin" })" class="btn btn-primary">Create New</a>
+
+</p>
+
+<div class="products">
+    @foreach (var product in Model)
+    {
+        <div class="product-card">
+            <img src="@product.ImageUrl" alt="@product.Name">
+            <h3>@product.Name</h3>
+            <p class="price">@product.Price $</p>
+            <div class="button-container">
+                <a href="@Url.Action("Display", "Product", new { area = "Admin", id = product.Id })" class="button view">View</a>
+                <a href="@Url.Action("Update", "Product", new { area = "Admin", id = product.Id })" class="button edit">Edit</a>
+                <a href="@Url.Action("Delete", "Product", new { area = "Admin", id = product.Id })" class="button delete">Delete</a>
+
+            </div>
+        </div>
+    }
+</div>
